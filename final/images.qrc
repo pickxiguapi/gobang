@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="images">
+    <file>source/easy100.png</file>
+    <file>source/hard100.png</file>
+    <file>source/normal100.png</file>
+    <file>source/start.png</file>
+  </qresource>
+</RCC>
